@@ -10,5 +10,6 @@ class Dog
     
   end
   
-  
+  @@all.self.clear_all 
+  @@all 
 end
