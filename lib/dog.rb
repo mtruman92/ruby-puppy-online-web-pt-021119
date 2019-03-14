@@ -18,5 +18,5 @@ def all_dogs
   @@all.each do |dog|
     puts dog.name
   end
-  
+end
 end
