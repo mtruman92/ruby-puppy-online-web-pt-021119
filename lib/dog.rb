@@ -13,5 +13,8 @@ class Dog
   def self.clear_all
   @@all.clear 
 end
+
+def all_dogs
+  all_dogs.each do |
   
 end
