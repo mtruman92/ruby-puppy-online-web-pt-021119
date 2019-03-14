@@ -11,5 +11,5 @@ class Dog
   end
   
   @@all.clear 
-  @@all
+  
 end
